@@ -1,3 +1,3 @@
-# Pseudo_3D_Rendering
+# Pseudo-3D Rendering
 
-fsdgf
+Pseudo-3D Rendering engine written in c++ based on SFML graphics library.
