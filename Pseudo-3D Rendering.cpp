@@ -337,7 +337,7 @@ int main() {
 			// draw scene
 			draw(window, sky, floor, distanceToWall, x);
 		}
-		// draw ne frame
+		// draw new frame
 		window.display();
 	}
 
